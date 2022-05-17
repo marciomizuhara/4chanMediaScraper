@@ -13,4 +13,4 @@ A little project I made to scrap all webms from any 4chan thread.
 * urllib.request
 
 ## Printscreen
-![4chan](https://user-images.githubusercontent.com/52802728/168819936-e5cbcd0d-341a-48d5-bfef-527e50359de3.png)
+![4chan](https://user-images.githubusercontent.com/52802728/168822882-fb1b5e25-aa02-43b1-87ec-00df268d0ffd.png)
