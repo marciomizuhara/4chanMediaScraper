@@ -5,7 +5,7 @@
 A little project I made to scrap all webms from any 4chan thread.
 
 ## How To Run
-- run **index.py** in your terminal
+- run **4chan.py** in your terminal
 - You'll be prompted a valid 4chan thread url and a specific folder path to save the media.
 
 ## Requirements / Libraries
